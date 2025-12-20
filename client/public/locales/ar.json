@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "addProduct": "إضافة منتج",
+    "language": "اللغة"
+  },
+  "home": {
+    "title": "مرحباً بك",
+    "description": "تطبيق إدارة المنتجات"
+  },
+  "products": {
+    "title": "المنتجات",
+    "noProducts": "لا توجد منتجات",
+    "addNew": "إضافة منتج جديد",
+    "name": "الاسم",
+    "description": "الوصف",
+    "image": "الصورة",
+    "actions": "الإجراءات",
+    "view": "عرض",
+    "delete": "حذف"
+  },
+  "form": {
+    "name": "اسم المنتج",
+    "nameRequired": "اسم المنتج مطلوب (3 أحرف على الأقل)",
+    "description": "وصف المنتج",
+    "descriptionRequired": "وصف المنتج مطلوب (10 أحرف على الأقل)",
+    "image": "صورة المنتج",
+    "imageRequired": "صورة المنتج مطلوبة (jpg أو png، بحد أقصى 2MB)",
+    "submit": "إضافة المنتج",
+    "cancel": "إلغاء"
+  },
+  "product": {
+    "title": "تفاصيل المنتج",
+    "back": "العودة للمنتجات"
+  }
+}

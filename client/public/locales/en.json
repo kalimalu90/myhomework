@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "addProduct": "Add Product",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Welcome",
+    "description": "Product Management Application"
+  },
+  "products": {
+    "title": "Products",
+    "noProducts": "No products found",
+    "addNew": "Add New Product",
+    "name": "Name",
+    "description": "Description",
+    "image": "Image",
+    "actions": "Actions",
+    "view": "View",
+    "delete": "Delete"
+  },
+  "form": {
+    "name": "Product Name",
+    "nameRequired": "Product name is required (minimum 3 characters)",
+    "description": "Product Description",
+    "descriptionRequired": "Product description is required (minimum 10 characters)",
+    "image": "Product Image",
+    "imageRequired": "Product image is required (jpg or png, maximum 2MB)",
+    "submit": "Add Product",
+    "cancel": "Cancel"
+  },
+  "product": {
+    "title": "Product Details",
+    "back": "Back to Products"
+  }
+}
